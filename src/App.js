@@ -9,6 +9,7 @@ function App() {
   return (
       <AppContainer>
         <p>App</p>
+        <p>Added Netlify CLI</p>
       </AppContainer>
     )
 }
